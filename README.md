@@ -20,3 +20,7 @@ Make sure you have Python installed on your computer. You can download it from [
 3. Navigate to the folder containing the file and run:
    ```bash
    python main.py
+
+## 👥 Author
+
+* **Somya Choukse** - *Initial Work & Development* - [@somyachoukse15](https://github.com/somyachoukse15)
